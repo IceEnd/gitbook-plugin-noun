@@ -10,7 +10,7 @@ Use it for your book, by adding to your book.json:
 
 ```json
 {
-    "noun": "Noun.md", // Nouns file path
+    "noun": "Noun.md",
     "plugins": ["noun"]
 }
 ```
