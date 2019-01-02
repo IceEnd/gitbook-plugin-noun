@@ -1,0 +1,24 @@
+{
+  "name": "gitbook-plugin-noun",
+  "version": "1.0.0",
+  "description": "Convert nouns to links.",
+  "main": "index.js",
+  "engines": {
+    "gitbook": ">=2.0.0"
+  },
+  "license": "MIT",
+  "gitbook": {
+    "properties": {
+      "nonu": {
+        "type": "string",
+        "default": "index",
+        "description": "It defines nonu file name."
+      }
+    }
+  },
+  "author": {
+    "name": "Alchemy",
+    "email": "min@coolecho.net",
+    "url": "https://github.com/IceEnd"
+  }
+}
